@@ -1,0 +1,428 @@
+{"_id":{"$oid":"5e1fe8f070f943113e306dd9"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\05,03,2019 (1).jpg","Page_number":{"$numberInt":"1"},"Number":"77-45261685"}
+{"_id":{"$oid":"5e1fe90170f943113e306dda"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\05,03,2019 (10).jpg","Page_number":{"$numberInt":"1"},"Number":"77-45254383"}
+{"_id":{"$oid":"5e1fe92670f943113e306ddb"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\05,03,2019 (12).jpg","Page_number":{"$numberInt":"1"},"Number":"77-48495451"}
+{"_id":{"$oid":"5e1fe92670f943113e306ddc"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\05,03,2019 (12).jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e1fe94570f943113e306ddd"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\05,03,2019 (14).jpg","Page_number":{"$numberInt":"1"},"Number":"Е17М18319"}
+{"_id":{"$oid":"5e1fe94570f943113e306dde"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\05,03,2019 (14).jpg","Page_number":{"$numberInt":"1"},"Number":"45050"}
+{"_id":{"$oid":"5e1fe95c70f943113e306ddf"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\05,03,2019 (15).jpg","Page_number":{"$numberInt":"1"},"Number":"Е17М18319"}
+{"_id":{"$oid":"5e1fe95c70f943113e306de0"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\05,03,2019 (15).jpg","Page_number":{"$numberInt":"1"},"Number":"45050"}
+{"_id":{"$oid":"5e1fe98f70f943113e306de1"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\05,03,2019 (20).jpg","Page_number":{"$numberInt":"1"},"Number":"Е18С28261"}
+{"_id":{"$oid":"5e1fe98f70f943113e306de2"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\05,03,2019 (20).jpg","Page_number":{"$numberInt":"1"},"Number":"Е17ЕЗ8115"}
+{"_id":{"$oid":"5e1fe9af70f943113e306de3"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\05,03,2019 (22).jpg","Page_number":{"$numberInt":"1"},"Number":"45503"}
+{"_id":{"$oid":"5e1fe9af70f943113e306de4"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\05,03,2019 (22).jpg","Page_number":{"$numberInt":"1"},"Number":"3028"}
+{"_id":{"$oid":"5e1fe9d270f943113e306de5"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\05,03,2019 (26).jpg","Page_number":{"$numberInt":"1"},"Number":"4236"}
+{"_id":{"$oid":"5e1fe9d270f943113e306de6"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\05,03,2019 (26).jpg","Page_number":{"$numberInt":"1"},"Number":"3203"}
+{"_id":{"$oid":"5e1fe9ea70f943113e306de7"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\05,03,2019 (3).jpg","Page_number":{"$numberInt":"1"},"Number":"77-48753450"}
+{"_id":{"$oid":"5e1fe9ea70f943113e306de8"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\05,03,2019 (3).jpg","Page_number":{"$numberInt":"1"},"Number":"77-48748330"}
+{"_id":{"$oid":"5e1fea0470f943113e306de9"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\05,03,2019 (4) .jpg","Page_number":{"$numberInt":"1"},"Number":"Е16НЗО9б8"}
+{"_id":{"$oid":"5e1fea3970f943113e306dea"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\05,03,2019 (6).jpg","Page_number":{"$numberInt":"1"},"Number":"77-48495028"}
+{"_id":{"$oid":"5e1fea5a70f943113e306deb"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\05,03,2019 (8).jpg","Page_number":{"$numberInt":"1"},"Number":"77-45255870"}
+{"_id":{"$oid":"5e1fea7b70f943113e306dec"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\1.jpg","Page_number":{"$numberInt":"1"},"Number":"77-48773395"}
+{"_id":{"$oid":"5e1fea7b70f943113e306ded"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\1.jpg","Page_number":{"$numberInt":"1"},"Number":"77-48773124"}
+{"_id":{"$oid":"5e1fea9570f943113e306dee"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\10088 (1).jpg","Page_number":{"$numberInt":"1"},"Number":"_"}
+{"_id":{"$oid":"5e1fea9570f943113e306def"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\10088 (1).jpg","Page_number":{"$numberInt":"1"},"Number":"_"}
+{"_id":{"$oid":"5e1feab770f943113e306df0"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\10088 (3).jpg","Page_number":{"$numberInt":"1"},"Number":"Е17Р66820"}
+{"_id":{"$oid":"5e1feab770f943113e306df1"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\10088 (3).jpg","Page_number":{"$numberInt":"1"},"Number":"Е17Р66817"}
+{"_id":{"$oid":"5e1feadb70f943113e306df2"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\10088 (5).jpg","Page_number":{"$numberInt":"1"},"Number":"41345"}
+{"_id":{"$oid":"5e1feadb70f943113e306df3"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\10088 (5).jpg","Page_number":{"$numberInt":"1"},"Number":"Е17014425"}
+{"_id":{"$oid":"5e1feb0670f943113e306df4"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\10156 (2).jpg","Page_number":{"$numberInt":"1"},"Number":"5243"}
+{"_id":{"$oid":"5e1feb0670f943113e306df5"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\10156 (2).jpg","Page_number":{"$numberInt":"1"},"Number":"77-51236805"}
+{"_id":{"$oid":"5e1feb2870f943113e306df6"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\10156 (4).jpg","Page_number":{"$numberInt":"1"},"Number":"Е16Е59759"}
+{"_id":{"$oid":"5e1feb2870f943113e306df7"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\10156 (4).jpg","Page_number":{"$numberInt":"1"},"Number":"Е16157248"}
+{"_id":{"$oid":"5e1feb4270f943113e306df8"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\10267 (1).jpg","Page_number":{"$numberInt":"1"},"Number":"56-51410601"}
+{"_id":{"$oid":"5e1feb6570f943113e306df9"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\10267 (3).jpg","Page_number":{"$numberInt":"1"},"Number":"Е17129687"}
+{"_id":{"$oid":"5e1feb6570f943113e306dfa"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\10267 (3).jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e1feb8d70f943113e306dfb"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\10289 (2).jpg","Page_number":{"$numberInt":"1"},"Number":"Е17Е67018"}
+{"_id":{"$oid":"5e1feb8d70f943113e306dfc"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\10289 (2).jpg","Page_number":{"$numberInt":"1"},"Number":"Е17Р67596"}
+{"_id":{"$oid":"5e1febaf70f943113e306dfd"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\10289 (4).jpg","Page_number":{"$numberInt":"1"},"Number":"Е17Е67013"}
+{"_id":{"$oid":"5e1febaf70f943113e306dfe"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\10289 (4).jpg","Page_number":{"$numberInt":"1"},"Number":"С16М73481"}
+{"_id":{"$oid":"5e1febd770f943113e306dff"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\10385 (2).jpg","Page_number":{"$numberInt":"1"},"Number":"Е17Р66720"}
+{"_id":{"$oid":"5e1febd770f943113e306e00"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\10385 (2).jpg","Page_number":{"$numberInt":"1"},"Number":"Е17Р66736"}
+{"_id":{"$oid":"5e1febfe70f943113e306e01"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\10385 (4).jpg","Page_number":{"$numberInt":"1"},"Number":"Е17Е66718"}
+{"_id":{"$oid":"5e1febfe70f943113e306e02"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\10385 (4).jpg","Page_number":{"$numberInt":"1"},"Number":"32640412"}
+{"_id":{"$oid":"5e1fec1e70f943113e306e03"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\10835 (1).jpg","Page_number":{"$numberInt":"1"},"Number":"Е17015013"}
+{"_id":{"$oid":"5e1fec1e70f943113e306e04"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\10835 (1).jpg","Page_number":{"$numberInt":"1"},"Number":"Е17015012"}
+{"_id":{"$oid":"5e1fec4870f943113e306e05"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\10835 (3).jpg","Page_number":{"$numberInt":"1"},"Number":"Е17014998"}
+{"_id":{"$oid":"5e1fec4870f943113e306e06"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\10835 (3).jpg","Page_number":{"$numberInt":"1"},"Number":"41953"}
+{"_id":{"$oid":"5e1fec7570f943113e306e07"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\11090 (2).jpg","Page_number":{"$numberInt":"1"},"Number":"56-51409920"}
+{"_id":{"$oid":"5e1fec7570f943113e306e08"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\11090 (2).jpg","Page_number":{"$numberInt":"1"},"Number":"56-51409614"}
+{"_id":{"$oid":"5e1fec9a70f943113e306e09"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\11090 (4).jpg","Page_number":{"$numberInt":"1"},"Number":"42874"}
+{"_id":{"$oid":"5e1fec9a70f943113e306e0a"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\11090 (4).jpg","Page_number":{"$numberInt":"1"},"Number":"Е18С50167"}
+{"_id":{"$oid":"5e1fecba70f943113e306e0b"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\11210 (1).jpg","Page_number":{"$numberInt":"1"},"Number":"_Е17011518"}
+{"_id":{"$oid":"5e1fecba70f943113e306e0c"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\11210 (1).jpg","Page_number":{"$numberInt":"1"},"Number":"Е17008850"}
+{"_id":{"$oid":"5e1feceb70f943113e306e0d"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\11210 (3).jpg","Page_number":{"$numberInt":"1"},"Number":"42144"}
+{"_id":{"$oid":"5e1feceb70f943113e306e0e"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\11210 (3).jpg","Page_number":{"$numberInt":"1"},"Number":"Е17Е66986"}
+{"_id":{"$oid":"5e1fed3270f943113e306e0f"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\11735 (2).jpg","Page_number":{"$numberInt":"1"},"Number":"56-51474192"}
+{"_id":{"$oid":"5e1fed6670f943113e306e10"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\11735 (3).jpg","Page_number":{"$numberInt":"1"},"Number":"10810799"}
+{"_id":{"$oid":"5e1fed6670f943113e306e11"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\11735 (3).jpg","Page_number":{"$numberInt":"1"},"Number":"56-51474170"}
+{"_id":{"$oid":"5e1feda970f943113e306e12"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\11743 (1).jpg","Page_number":{"$numberInt":"1"},"Number":"Е17Е49599"}
+{"_id":{"$oid":"5e1feda970f943113e306e13"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\11743 (1).jpg","Page_number":{"$numberInt":"1"},"Number":"Е17Е49600"}
+{"_id":{"$oid":"5e1fedd770f943113e306e14"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\11743 (3).jpg","Page_number":{"$numberInt":"1"},"Number":"42887"}
+{"_id":{"$oid":"5e1fedd770f943113e306e15"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\11743 (3).jpg","Page_number":{"$numberInt":"1"},"Number":"77-45261861"}
+{"_id":{"$oid":"5e1fee1770f943113e306e16"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\11837 (2).jpg","Page_number":{"$numberInt":"1"},"Number":"Е18Е0б000"}
+{"_id":{"$oid":"5e1fee1770f943113e306e17"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\11837 (2).jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e1fee5470f943113e306e18"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\11837 (4).jpg","Page_number":{"$numberInt":"1"},"Number":"Е18Е08743"}
+{"_id":{"$oid":"5e1fee7a70f943113e306e19"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\11837 (6).jpg","Page_number":{"$numberInt":"1"},"Number":"Е18Е05926"}
+{"_id":{"$oid":"5e1fee9f70f943113e306e1a"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\1233 (1).jpg","Page_number":{"$numberInt":"1"},"Number":"77-48494798"}
+{"_id":{"$oid":"5e1fee9f70f943113e306e1b"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\1233 (1).jpg","Page_number":{"$numberInt":"1"},"Number":"77-48492408"}
+{"_id":{"$oid":"5e1feec970f943113e306e1c"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\1233 (3).jpg","Page_number":{"$numberInt":"1"},"Number":"10810799"}
+{"_id":{"$oid":"5e1feec970f943113e306e1d"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\1233 (3).jpg","Page_number":{"$numberInt":"1"},"Number":"56-51474170"}
+{"_id":{"$oid":"5e1fef0470f943113e306e1e"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\12664 (1).jpg","Page_number":{"$numberInt":"1"},"Number":"Е17Р67017"}
+{"_id":{"$oid":"5e1fef0470f943113e306e1f"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\12664 (1).jpg","Page_number":{"$numberInt":"1"},"Number":"Е17Р67580"}
+{"_id":{"$oid":"5e1fef3370f943113e306e20"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\12664 (3).jpg","Page_number":{"$numberInt":"1"},"Number":"Е17Р67593"}
+{"_id":{"$oid":"5e1fef3370f943113e306e21"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\12664 (3).jpg","Page_number":{"$numberInt":"1"},"Number":"77-48753415"}
+{"_id":{"$oid":"5e1fef5570f943113e306e22"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\13082 (1).jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e1fef8870f943113e306e23"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\13082 (3).jpg","Page_number":{"$numberInt":"1"},"Number":"Е17125552"}
+{"_id":{"$oid":"5e1fefc370f943113e306e24"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\13205 (2).jpg","Page_number":{"$numberInt":"1"},"Number":"_Е17125674"}
+{"_id":{"$oid":"5e1fefc370f943113e306e25"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\13205 (2).jpg","Page_number":{"$numberInt":"1"},"Number":"Е17С43262"}
+{"_id":{"$oid":"5e1fefe370f943113e306e26"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\13336 (1).jpg","Page_number":{"$numberInt":"1"},"Number":"Е17115488"}
+{"_id":{"$oid":"5e1fefe370f943113e306e27"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\13336 (1).jpg","Page_number":{"$numberInt":"1"},"Number":"Е17125491"}
+{"_id":{"$oid":"5e1ff01270f943113e306e28"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\13336 (3).jpg","Page_number":{"$numberInt":"1"},"Number":"77-51260933"}
+{"_id":{"$oid":"5e1ff03f70f943113e306e29"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\13602 (1).jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e1ff03f70f943113e306e2a"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\13602 (1).jpg","Page_number":{"$numberInt":"1"},"Number":"Е18ЕР38789"}
+{"_id":{"$oid":"5e1ff06970f943113e306e2b"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\13602 (3).jpg","Page_number":{"$numberInt":"1"},"Number":"1810518"}
+{"_id":{"$oid":"5e1ff09070f943113e306e2c"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\13787 (1).jpg","Page_number":{"$numberInt":"1"},"Number":"Е18А10949"}
+{"_id":{"$oid":"5e1ff09070f943113e306e2d"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\13787 (1).jpg","Page_number":{"$numberInt":"1"},"Number":"Е18А11072"}
+{"_id":{"$oid":"5e1ff0b570f943113e306e2e"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\13787 (3).jpg","Page_number":{"$numberInt":"1"},"Number":"1199"}
+{"_id":{"$oid":"5e1ff0b570f943113e306e2f"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\13787 (3).jpg","Page_number":{"$numberInt":"1"},"Number":"Е17129659"}
+{"_id":{"$oid":"5e1ff0da70f943113e306e30"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\13974 (1).jpg","Page_number":{"$numberInt":"1"},"Number":"Е18А11268"}
+{"_id":{"$oid":"5e1ff0da70f943113e306e31"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\13974 (1).jpg","Page_number":{"$numberInt":"1"},"Number":"Е18А11146"}
+{"_id":{"$oid":"5e1ff10470f943113e306e32"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 001.jpg","Page_number":{"$numberInt":"1"},"Number":"Е17С43179"}
+{"_id":{"$oid":"5e1ff10470f943113e306e33"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 001.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e1ff13570f943113e306e34"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 003.jpg","Page_number":{"$numberInt":"1"},"Number":"Е18Е22249"}
+{"_id":{"$oid":"5e1ff13570f943113e306e35"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 003.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e1ff15e70f943113e306e36"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 005.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e1ff15e70f943113e306e37"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 005.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e1ff18170f943113e306e38"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 007.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e1ff18170f943113e306e39"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 007.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e1ff1a670f943113e306e3a"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 009.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e1ff1a670f943113e306e3b"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 009.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e1ff1cd70f943113e306e3c"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 011.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e1ff1cd70f943113e306e3d"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 011.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e1ff1f170f943113e306e3e"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 013.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e1ff1f170f943113e306e3f"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 013.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e1ff20c70f943113e306e40"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 015.jpg","Page_number":{"$numberInt":"1"},"Number":"56-51396749"}
+{"_id":{"$oid":"5e1ff23070f943113e306e41"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 017.jpg","Page_number":{"$numberInt":"1"},"Number":"Е16Р5бЗб1"}
+{"_id":{"$oid":"5e1ff23070f943113e306e42"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 017.jpg","Page_number":{"$numberInt":"1"},"Number":"Е16Р5бЗ73"}
+{"_id":{"$oid":"5e1ff25670f943113e306e43"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 019.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e1ff25670f943113e306e44"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 019.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e1ff27970f943113e306e45"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 021.jpg","Page_number":{"$numberInt":"1"},"Number":"77-48748036"}
+{"_id":{"$oid":"5e1ff2a970f943113e306e46"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 023.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e1ff2a970f943113e306e47"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 023.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e1ff2c770f943113e306e48"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 025.jpg","Page_number":{"$numberInt":"1"},"Number":"77-48427266"}
+{"_id":{"$oid":"5e1ff2dc70f943113e306e49"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 0251.jpg","Page_number":{"$numberInt":"1"},"Number":"77-51259960"}
+{"_id":{"$oid":"5e1ff30e70f943113e306e4a"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 027.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e1ff30e70f943113e306e4b"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 027.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e1ff33070f943113e306e4c"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 029.jpg","Page_number":{"$numberInt":"1"},"Number":"2306"}
+{"_id":{"$oid":"5e1ff34b70f943113e306e4d"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 033.jpg","Page_number":{"$numberInt":"1"},"Number":"Е17М53З512"}
+{"_id":{"$oid":"5e1ff37370f943113e306e4e"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 035.jpg","Page_number":{"$numberInt":"1"},"Number":"Е17М5З518"}
+{"_id":{"$oid":"5e1ff37370f943113e306e4f"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 035.jpg","Page_number":{"$numberInt":"1"},"Number":"Е17М5З500"}
+{"_id":{"$oid":"5e1ff39b70f943113e306e50"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 037.jpg","Page_number":{"$numberInt":"1"},"Number":"77-48775044"}
+{"_id":{"$oid":"5e1ff39b70f943113e306e51"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 037.jpg","Page_number":{"$numberInt":"1"},"Number":"77-48774846"}
+{"_id":{"$oid":"5e1ff3c770f943113e306e52"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 039.jpg","Page_number":{"$numberInt":"1"},"Number":"_"}
+{"_id":{"$oid":"5e1ff3c770f943113e306e53"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 039.jpg","Page_number":{"$numberInt":"1"},"Number":"77-46969959"}
+{"_id":{"$oid":"5e1ff3f570f943113e306e54"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 041.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e1ff3f570f943113e306e55"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 041.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e1ff42170f943113e306e56"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 043.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e1ff42170f943113e306e57"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 043.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e1ff44b70f943113e306e58"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 045.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e1ff44b70f943113e306e59"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 045.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e1ff47870f943113e306e5a"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 047.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e1ff47870f943113e306e5b"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 047.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e1ff4a170f943113e306e5c"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 049.jpg","Page_number":{"$numberInt":"1"},"Number":"Е-17129688"}
+{"_id":{"$oid":"5e1ff4a170f943113e306e5d"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 049.jpg","Page_number":{"$numberInt":"1"},"Number":"Е-17129699"}
+{"_id":{"$oid":"5e1ff4bc70f943113e306e5e"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 051.jpg","Page_number":{"$numberInt":"1"},"Number":"Е-17129698"}
+{"_id":{"$oid":"5e1ff4d570f943113e306e5f"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 055.jpg","Page_number":{"$numberInt":"1"},"Number":"77-48754022"}
+{"_id":{"$oid":"5e1ff4f970f943113e306e60"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 057.jpg","Page_number":{"$numberInt":"1"},"Number":"77-48747794"}
+{"_id":{"$oid":"5e1ff4f970f943113e306e61"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 057.jpg","Page_number":{"$numberInt":"1"},"Number":"77-43916423"}
+{"_id":{"$oid":"5e1ff52170f943113e306e62"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 059.jpg","Page_number":{"$numberInt":"1"},"Number":"77-48772873"}
+{"_id":{"$oid":"5e1ff52170f943113e306e63"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 059.jpg","Page_number":{"$numberInt":"1"},"Number":"3516"}
+{"_id":{"$oid":"5e1ff54570f943113e306e64"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 061.jpg","Page_number":{"$numberInt":"1"},"Number":"77-48772675"}
+{"_id":{"$oid":"5e1ff54570f943113e306e65"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 061.jpg","Page_number":{"$numberInt":"1"},"Number":"77-48773439"}
+{"_id":{"$oid":"5e1ff56f70f943113e306e66"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 063.jpg","Page_number":{"$numberInt":"1"},"Number":"77-48428561"}
+{"_id":{"$oid":"5e1ff56f70f943113e306e67"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 063.jpg","Page_number":{"$numberInt":"1"},"Number":"77-48429101"}
+{"_id":{"$oid":"5e1ff59670f943113e306e68"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 065.jpg","Page_number":{"$numberInt":"1"},"Number":"77-48429089"}
+{"_id":{"$oid":"5e1ff5c670f943113e306e69"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 067.jpg","Page_number":{"$numberInt":"1"},"Number":"Е18113019"}
+{"_id":{"$oid":"5e1ff5c670f943113e306e6a"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 067.jpg","Page_number":{"$numberInt":"1"},"Number":"Е18112777"}
+{"_id":{"$oid":"5e1ff5f070f943113e306e6b"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 069.jpg","Page_number":{"$numberInt":"1"},"Number":"1830052"}
+{"_id":{"$oid":"5e1ff5f070f943113e306e6c"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14.04.2019 ПОверка СКД _1 069.jpg","Page_number":{"$numberInt":"1"},"Number":"Е18113024"}
+{"_id":{"$oid":"5e1ff61670f943113e306e6d"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14322 (1).jpg","Page_number":{"$numberInt":"1"},"Number":"Е18А11310"}
+{"_id":{"$oid":"5e1ff61670f943113e306e6e"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14322 (1).jpg","Page_number":{"$numberInt":"1"},"Number":"Е18А11178"}
+{"_id":{"$oid":"5e1ff64370f943113e306e6f"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14322 (3).jpg","Page_number":{"$numberInt":"1"},"Number":"44399"}
+{"_id":{"$oid":"5e1ff66a70f943113e306e70"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14347 (1).jpg","Page_number":{"$numberInt":"1"},"Number":"Е18ЕЗ7685"}
+{"_id":{"$oid":"5e1ff69b70f943113e306e71"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14382 (2).jpg","Page_number":{"$numberInt":"1"},"Number":"Е18Е05778"}
+{"_id":{"$oid":"5e1ff69b70f943113e306e72"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14382 (2).jpg","Page_number":{"$numberInt":"1"},"Number":"Е18Е05794"}
+{"_id":{"$oid":"5e1ff6c370f943113e306e73"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14475 (2).jpg","Page_number":{"$numberInt":"1"},"Number":"Е18Е05779"}
+{"_id":{"$oid":"5e1ff6e970f943113e306e74"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14475 (4).jpg","Page_number":{"$numberInt":"1"},"Number":"Е18С5004З"}
+{"_id":{"$oid":"5e1ff6e970f943113e306e75"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14475 (4).jpg","Page_number":{"$numberInt":"1"},"Number":"Е18С50О231"}
+{"_id":{"$oid":"5e1ff70c70f943113e306e76"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14486 (1).jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e1ff70c70f943113e306e77"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14486 (1).jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e1ff73070f943113e306e78"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14486 (3).jpg","Page_number":{"$numberInt":"1"},"Number":"1810308"}
+{"_id":{"$oid":"5e1ff73070f943113e306e79"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14486 (3).jpg","Page_number":{"$numberInt":"1"},"Number":"Е18А11109"}
+{"_id":{"$oid":"5e1ff76370f943113e306e7a"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14632 (2).jpg","Page_number":{"$numberInt":"1"},"Number":"Е18Н22324"}
+{"_id":{"$oid":"5e1ff78e70f943113e306e7b"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14632 (4).jpg","Page_number":{"$numberInt":"1"},"Number":"56-51482660"}
+{"_id":{"$oid":"5e1ff78e70f943113e306e7c"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14632 (4).jpg","Page_number":{"$numberInt":"1"},"Number":"56-53887869"}
+{"_id":{"$oid":"5e1ff7b770f943113e306e7d"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14697 (2).jpg","Page_number":{"$numberInt":"1"},"Number":"Е18ЕЗ8783"}
+{"_id":{"$oid":"5e1ff7b770f943113e306e7e"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14697 (2).jpg","Page_number":{"$numberInt":"1"},"Number":"56-51482944"}
+{"_id":{"$oid":"5e1ff7de70f943113e306e7f"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14697 (4).jpg","Page_number":{"$numberInt":"1"},"Number":"_Е18Е22398"}
+{"_id":{"$oid":"5e1ff7de70f943113e306e80"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14697 (4).jpg","Page_number":{"$numberInt":"1"},"Number":"Е18Е22395"}
+{"_id":{"$oid":"5e1ff80770f943113e306e81"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14798 (2).jpg","Page_number":{"$numberInt":"1"},"Number":"45572"}
+{"_id":{"$oid":"5e1ff80770f943113e306e82"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14798 (2).jpg","Page_number":{"$numberInt":"1"},"Number":"Е17011432"}
+{"_id":{"$oid":"5e1ff82b70f943113e306e83"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14798 (4).jpg","Page_number":{"$numberInt":"1"},"Number":"Е18С50159"}
+{"_id":{"$oid":"5e1ff82b70f943113e306e84"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14798 (4).jpg","Page_number":{"$numberInt":"1"},"Number":"Е18С50221"}
+{"_id":{"$oid":"5e1ff84870f943113e306e85"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14829 (1).jpg","Page_number":{"$numberInt":"1"},"Number":"56-53894570"}
+{"_id":{"$oid":"5e1ff84870f943113e306e86"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14829 (1).jpg","Page_number":{"$numberInt":"1"},"Number":"1820038"}
+{"_id":{"$oid":"5e1ff86d70f943113e306e87"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14829 (3).jpg","Page_number":{"$numberInt":"1"},"Number":"56-53893888"}
+{"_id":{"$oid":"5e1ff86d70f943113e306e88"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14829 (3).jpg","Page_number":{"$numberInt":"1"},"Number":"56-53894538"}
+{"_id":{"$oid":"5e1ff89370f943113e306e89"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14842 (1).jpg","Page_number":{"$numberInt":"1"},"Number":"56-53891249"}
+{"_id":{"$oid":"5e1ff89370f943113e306e8a"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14842 (1).jpg","Page_number":{"$numberInt":"1"},"Number":"56-53891327"}
+{"_id":{"$oid":"5e1ff8b370f943113e306e8b"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14842 (2).jpg","Page_number":{"$numberInt":"1"},"Number":"56-53891280"}
+{"_id":{"$oid":"5e1ff8b370f943113e306e8c"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\14842 (2).jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e1ff8df70f943113e306e8d"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\15069 (1).jpg","Page_number":{"$numberInt":"1"},"Number":"Е18С61307"}
+{"_id":{"$oid":"5e1ff8df70f943113e306e8e"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\15069 (1).jpg","Page_number":{"$numberInt":"1"},"Number":"Е18С61299"}
+{"_id":{"$oid":"5e1ff90b70f943113e306e8f"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\15069 (3).jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e1ff90b70f943113e306e90"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\15069 (3).jpg","Page_number":{"$numberInt":"1"},"Number":"1810075"}
+{"_id":{"$oid":"5e1ff93d70f943113e306e91"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\15118 (2).jpg","Page_number":{"$numberInt":"1"},"Number":"56-53890635"}
+{"_id":{"$oid":"5e1ff93d70f943113e306e92"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\15118 (2).jpg","Page_number":{"$numberInt":"1"},"Number":"56-53890711"}
+{"_id":{"$oid":"5e1ff96970f943113e306e93"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\15118 (4).jpg","Page_number":{"$numberInt":"1"},"Number":"56-53890990"}
+{"_id":{"$oid":"5e1ff96970f943113e306e94"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\15118 (4).jpg","Page_number":{"$numberInt":"1"},"Number":"1820806"}
+{"_id":{"$oid":"5e1ff99570f943113e306e95"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\15135 (2).jpg","Page_number":{"$numberInt":"1"},"Number":"56-53899597"}
+{"_id":{"$oid":"5e1ff9b470f943113e306e96"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\15135 (3).jpg","Page_number":{"$numberInt":"1"},"Number":"56-53899551"}
+{"_id":{"$oid":"5e1ff9b470f943113e306e97"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\15135 (3).jpg","Page_number":{"$numberInt":"1"},"Number":"1830788"}
+{"_id":{"$oid":"5e1ff9e570f943113e306e98"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\15820 (2).jpg","Page_number":{"$numberInt":"1"},"Number":"Е18ЕЗ7727"}
+{"_id":{"$oid":"5e1ff9e570f943113e306e99"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\15820 (2).jpg","Page_number":{"$numberInt":"1"},"Number":"Е18Е22337"}
+{"_id":{"$oid":"5e1ffa1570f943113e306e9a"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\15948 (2).jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e1ffa1570f943113e306e9b"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\15948 (2).jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e1ffa3f70f943113e306e9c"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\15948 (4).jpg","Page_number":{"$numberInt":"1"},"Number":"Е18Н22237"}
+{"_id":{"$oid":"5e1ffa3f70f943113e306e9d"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\15948 (4).jpg","Page_number":{"$numberInt":"1"},"Number":"018820451"}
+{"_id":{"$oid":"5e1ffa5d70f943113e306e9e"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\16,03,2019  (1).jpg","Page_number":{"$numberInt":"1"},"Number":"77-47033488"}
+{"_id":{"$oid":"5e1ffa8a70f943113e306e9f"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\16,03,2019 (2).jpg","Page_number":{"$numberInt":"1"},"Number":"56-51391529"}
+{"_id":{"$oid":"5e1ffa8a70f943113e306ea0"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\16,03,2019 (2).jpg","Page_number":{"$numberInt":"1"},"Number":"77-45263140"}
+{"_id":{"$oid":"5e1ffaa870f943113e306ea1"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\16,03,2019 (3).jpg","Page_number":{"$numberInt":"1"},"Number":"56-51391529"}
+{"_id":{"$oid":"5e1ffaa870f943113e306ea2"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\16,03,2019 (3).jpg","Page_number":{"$numberInt":"1"},"Number":"77-45263140"}
+{"_id":{"$oid":"5e1ffacb70f943113e306ea3"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\16.03 (1).jpg","Page_number":{"$numberInt":"1"},"Number":"77-48429089"}
+{"_id":{"$oid":"5e1ffacb70f943113e306ea4"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\16.03 (1).jpg","Page_number":{"$numberInt":"1"},"Number":"77-48428561"}
+{"_id":{"$oid":"5e1ffaef70f943113e306ea5"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\16.03.2019  (1).jpg","Page_number":{"$numberInt":"1"},"Number":"77-48750011"}
+{"_id":{"$oid":"5e1ffaef70f943113e306ea6"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\16.03.2019  (1).jpg","Page_number":{"$numberInt":"1"},"Number":"77-48749787"}
+{"_id":{"$oid":"5e1ffb1e70f943113e306ea7"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\16.03.2019  (4).jpg","Page_number":{"$numberInt":"1"},"Number":"1810073"}
+{"_id":{"$oid":"5e1ffb1e70f943113e306ea8"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\16.03.2019  (4).jpg","Page_number":{"$numberInt":"1"},"Number":"Е18С61408"}
+{"_id":{"$oid":"5e1ffb3b70f943113e306ea9"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\16.03.2019(1).jpg","Page_number":{"$numberInt":"1"},"Number":"56-51392876"}
+{"_id":{"$oid":"5e1ffb3b70f943113e306eaa"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\16.03.2019(1).jpg","Page_number":{"$numberInt":"1"},"Number":"56-51391542"}
+{"_id":{"$oid":"5e1ffb7370f943113e306eab"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\16059 (2).jpg","Page_number":{"$numberInt":"1"},"Number":"Е18115357"}
+{"_id":{"$oid":"5e1ffb7370f943113e306eac"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\16059 (2).jpg","Page_number":{"$numberInt":"1"},"Number":"Е18Сб1305"}
+{"_id":{"$oid":"5e1ffb9070f943113e306ead"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\16059 (3).jpg","Page_number":{"$numberInt":"1"},"Number":"_Е18115361"}
+{"_id":{"$oid":"5e1ffb9070f943113e306eae"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\16059 (3).jpg","Page_number":{"$numberInt":"1"},"Number":"1840092"}
+{"_id":{"$oid":"5e1ffbb570f943113e306eaf"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\16157 (1).jpg","Page_number":{"$numberInt":"1"},"Number":"56-53891228"}
+{"_id":{"$oid":"5e1ffbb570f943113e306eb0"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\16157 (1).jpg","Page_number":{"$numberInt":"1"},"Number":"56-53891315"}
+{"_id":{"$oid":"5e1ffbd970f943113e306eb1"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\16157 (3).jpg","Page_number":{"$numberInt":"1"},"Number":"пе"}
+{"_id":{"$oid":"5e1ffbd970f943113e306eb2"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\16157 (3).jpg","Page_number":{"$numberInt":"1"},"Number":"1820357"}
+{"_id":{"$oid":"5e1ffc0d70f943113e306eb3"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24,03,2019  (1).jpg","Page_number":{"$numberInt":"1"},"Number":"77-51260036"}
+{"_id":{"$oid":"5e1ffc0d70f943113e306eb4"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24,03,2019  (1).jpg","Page_number":{"$numberInt":"1"},"Number":"77-51261206"}
+{"_id":{"$oid":"5e1ffc4870f943113e306eb5"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24,03,2019  (4).jpg","Page_number":{"$numberInt":"1"},"Number":"77-51234326"}
+{"_id":{"$oid":"5e1ffc4870f943113e306eb6"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24,03,2019  (4).jpg","Page_number":{"$numberInt":"1"},"Number":"2344"}
+{"_id":{"$oid":"5e1ffc7870f943113e306eb7"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24,03,2019 (2).jpg","Page_number":{"$numberInt":"1"},"Number":"Е17Р66903"}
+{"_id":{"$oid":"5e1ffc7870f943113e306eb8"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24,03,2019 (2).jpg","Page_number":{"$numberInt":"1"},"Number":"77-45249434"}
+{"_id":{"$oid":"5e1ffca970f943113e306eb9"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.03.2019 (2).jpg","Page_number":{"$numberInt":"1"},"Number":"11253652"}
+{"_id":{"$oid":"5e1ffca970f943113e306eba"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.03.2019 (2).jpg","Page_number":{"$numberInt":"1"},"Number":"77-51230982"}
+{"_id":{"$oid":"5e1ffcbd70f943113e306ebb"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 071.jpg","Page_number":{"$numberInt":"1"},"Number":"4755"}
+{"_id":{"$oid":"5e1ffce470f943113e306ebc"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 073.jpg","Page_number":{"$numberInt":"1"},"Number":"Е16Е58574"}
+{"_id":{"$oid":"5e1ffce470f943113e306ebd"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 073.jpg","Page_number":{"$numberInt":"1"},"Number":"Е16Е58571"}
+{"_id":{"$oid":"5e1ffd0270f943113e306ebe"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 075.jpg","Page_number":{"$numberInt":"1"},"Number":"2338"}
+{"_id":{"$oid":"5e1ffd3670f943113e306ebf"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 077.jpg","Page_number":{"$numberInt":"1"},"Number":"56-51392232"}
+{"_id":{"$oid":"5e1ffd3670f943113e306ec0"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 077.jpg","Page_number":{"$numberInt":"1"},"Number":"56-51392173"}
+{"_id":{"$oid":"5e1ffd5570f943113e306ec1"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 079.jpg","Page_number":{"$numberInt":"1"},"Number":"56-51392208"}
+{"_id":{"$oid":"5e1ffd7e70f943113e306ec2"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 081.jpg","Page_number":{"$numberInt":"1"},"Number":"Е17Е21374"}
+{"_id":{"$oid":"5e1ffd7e70f943113e306ec3"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 081.jpg","Page_number":{"$numberInt":"1"},"Number":"56-51484785"}
+{"_id":{"$oid":"5e1ffd9670f943113e306ec4"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 083.jpg","Page_number":{"$numberInt":"1"},"Number":"5223"}
+{"_id":{"$oid":"5e1ffdbc70f943113e306ec5"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 085.jpg","Page_number":{"$numberInt":"1"},"Number":"56-51395662"}
+{"_id":{"$oid":"5e1ffdbc70f943113e306ec6"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 085.jpg","Page_number":{"$numberInt":"1"},"Number":"56-51397344"}
+{"_id":{"$oid":"5e1ffdd770f943113e306ec7"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 087.jpg","Page_number":{"$numberInt":"1"},"Number":"56-51397441"}
+{"_id":{"$oid":"5e1ffdfb70f943113e306ec8"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 089.jpg","Page_number":{"$numberInt":"1"},"Number":"Е16С53802"}
+{"_id":{"$oid":"5e1ffdfb70f943113e306ec9"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 089.jpg","Page_number":{"$numberInt":"1"},"Number":"Е16С53783"}
+{"_id":{"$oid":"5e1ffe1970f943113e306eca"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 091.jpg","Page_number":{"$numberInt":"1"},"Number":"15420561"}
+{"_id":{"$oid":"5e1ffe3c70f943113e306ecb"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 093.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e1ffe3c70f943113e306ecc"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 093.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e1ffe5770f943113e306ecd"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 095.jpg","Page_number":{"$numberInt":"1"},"Number":"77-48495068"}
+{"_id":{"$oid":"5e1ffe7c70f943113e306ece"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 097.jpg","Page_number":{"$numberInt":"1"},"Number":"77-45299860"}
+{"_id":{"$oid":"5e1ffe7c70f943113e306ecf"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 097.jpg","Page_number":{"$numberInt":"1"},"Number":"нет."}
+{"_id":{"$oid":"5e1ffe9670f943113e306ed0"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 099.jpg","Page_number":{"$numberInt":"1"},"Number":"нет"}
+{"_id":{"$oid":"5e1ffeba70f943113e306ed1"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 101.jpg","Page_number":{"$numberInt":"1"},"Number":"Е17015001"}
+{"_id":{"$oid":"5e1ffeba70f943113e306ed2"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 101.jpg","Page_number":{"$numberInt":"1"},"Number":"Е17029590"}
+{"_id":{"$oid":"5e1ffed770f943113e306ed3"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 103.jpg","Page_number":{"$numberInt":"1"},"Number":"15521443"}
+{"_id":{"$oid":"5e1ffefe70f943113e306ed4"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 105.jpg","Page_number":{"$numberInt":"1"},"Number":"77-48490418"}
+{"_id":{"$oid":"5e1ffefe70f943113e306ed5"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 105.jpg","Page_number":{"$numberInt":"1"},"Number":"Е16С5З8ОЗ"}
+{"_id":{"$oid":"5e1fff1770f943113e306ed6"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 107.jpg","Page_number":{"$numberInt":"1"},"Number":"0014"}
+{"_id":{"$oid":"5e1fff3770f943113e306ed7"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 109.jpg","Page_number":{"$numberInt":"1"},"Number":"77-51229831"}
+{"_id":{"$oid":"5e1fff3770f943113e306ed8"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 109.jpg","Page_number":{"$numberInt":"1"},"Number":"77-51229143"}
+{"_id":{"$oid":"5e1fff5070f943113e306ed9"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 111.jpg","Page_number":{"$numberInt":"1"},"Number":"77-51232039"}
+{"_id":{"$oid":"5e1fff7370f943113e306eda"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 113.jpg","Page_number":{"$numberInt":"1"},"Number":"77-47841268"}
+{"_id":{"$oid":"5e1fff9770f943113e306edb"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 115.jpg","Page_number":{"$numberInt":"1"},"Number":"77-43914467"}
+{"_id":{"$oid":"5e1fffbc70f943113e306edc"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 117.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e1fffbc70f943113e306edd"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 117.jpg","Page_number":{"$numberInt":"1"},"Number":"11283786"}
+{"_id":{"$oid":"5e1fffe070f943113e306ede"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 119.jpg","Page_number":{"$numberInt":"1"},"Number":"Е17М53507"}
+{"_id":{"$oid":"5e1fffe070f943113e306edf"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 119.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e1ffffa70f943113e306ee0"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 121.jpg","Page_number":{"$numberInt":"1"},"Number":":"}
+{"_id":{"$oid":"5e20001e70f943113e306ee1"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 123.jpg","Page_number":{"$numberInt":"1"},"Number":"56-51397941"}
+{"_id":{"$oid":"5e20001e70f943113e306ee2"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 123.jpg","Page_number":{"$numberInt":"1"},"Number":"77-45299818"}
+{"_id":{"$oid":"5e20004770f943113e306ee3"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 125.jpg","Page_number":{"$numberInt":"1"},"Number":"56-51398035"}
+{"_id":{"$oid":"5e20004770f943113e306ee4"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 125.jpg","Page_number":{"$numberInt":"1"},"Number":"56-51397963"}
+{"_id":{"$oid":"5e20006e70f943113e306ee5"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 127.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e20006e70f943113e306ee6"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 127.jpg","Page_number":{"$numberInt":"1"},"Number":"1383585"}
+{"_id":{"$oid":"5e20009470f943113e306ee7"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 129.jpg","Page_number":{"$numberInt":"1"},"Number":"Е16МЗ5612"}
+{"_id":{"$oid":"5e20009470f943113e306ee8"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 129.jpg","Page_number":{"$numberInt":"1"},"Number":"Е16МЗ5610"}
+{"_id":{"$oid":"5e2000bd70f943113e306ee9"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 131.jpg","Page_number":{"$numberInt":"1"},"Number":"Е18017572"}
+{"_id":{"$oid":"5e2000bd70f943113e306eea"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 131.jpg","Page_number":{"$numberInt":"1"},"Number":"Е18018832"}
+{"_id":{"$oid":"5e2000e470f943113e306eeb"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 133.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e2000e470f943113e306eec"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 133.jpg","Page_number":{"$numberInt":"1"},"Number":"Е18017667"}
+{"_id":{"$oid":"5e20010f70f943113e306eed"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 135.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e20010f70f943113e306eee"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 135.jpg","Page_number":{"$numberInt":"1"},"Number":"44300"}
+{"_id":{"$oid":"5e20013970f943113e306eef"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 137.jpg","Page_number":{"$numberInt":"1"},"Number":"Е18В17973"}
+{"_id":{"$oid":"5e20013970f943113e306ef0"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 137.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e20016470f943113e306ef1"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 139.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e20016470f943113e306ef2"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 139.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e20018170f943113e306ef3"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 141.jpg","Page_number":{"$numberInt":"1"},"Number":"Е18В10971"}
+{"_id":{"$oid":"5e2001a570f943113e306ef4"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 143.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e2001a570f943113e306ef5"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 143.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e2001cc70f943113e306ef6"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 145.jpg","Page_number":{"$numberInt":"1"},"Number":"Е18С16330"}
+{"_id":{"$oid":"5e2001cc70f943113e306ef7"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 145.jpg","Page_number":{"$numberInt":"1"},"Number":"Е18С28249"}
+{"_id":{"$oid":"5e2001e570f943113e306ef8"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 147.jpg","Page_number":{"$numberInt":"1"},"Number":"разобрать"}
+{"_id":{"$oid":"5e20020d70f943113e306ef9"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 149.jpg","Page_number":{"$numberInt":"1"},"Number":"77-51260424"}
+{"_id":{"$oid":"5e20020d70f943113e306efa"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 149.jpg","Page_number":{"$numberInt":"1"},"Number":"77-51236313"}
+{"_id":{"$oid":"5e20023a70f943113e306efb"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 151.jpg","Page_number":{"$numberInt":"1"},"Number":"77-48748106"}
+{"_id":{"$oid":"5e20023a70f943113e306efc"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 151.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e20026870f943113e306efd"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 153.jpg","Page_number":{"$numberInt":"1"},"Number":"77-48753829"}
+{"_id":{"$oid":"5e20026870f943113e306efe"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 153.jpg","Page_number":{"$numberInt":"1"},"Number":"77-45301496"}
+{"_id":{"$oid":"5e20028a70f943113e306eff"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 155.jpg","Page_number":{"$numberInt":"1"},"Number":"77-45263439"}
+{"_id":{"$oid":"5e2002ac70f943113e306f00"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 157.jpg","Page_number":{"$numberInt":"1"},"Number":"Е18112747"}
+{"_id":{"$oid":"5e2002ac70f943113e306f01"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 157.jpg","Page_number":{"$numberInt":"1"},"Number":"Е18115311"}
+{"_id":{"$oid":"5e2002d070f943113e306f02"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 159.jpg","Page_number":{"$numberInt":"1"},"Number":"Е17029556"}
+{"_id":{"$oid":"5e2002d070f943113e306f03"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 159.jpg","Page_number":{"$numberInt":"1"},"Number":"41946"}
+{"_id":{"$oid":"5e2002f570f943113e306f04"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 161.jpg","Page_number":{"$numberInt":"1"},"Number":"Е17029672"}
+{"_id":{"$oid":"5e2002f570f943113e306f05"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 161.jpg","Page_number":{"$numberInt":"1"},"Number":"Е17029676"}
+{"_id":{"$oid":"5e20031570f943113e306f06"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 163.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e20031570f943113e306f07"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 163.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e20033970f943113e306f08"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 165.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e20033970f943113e306f09"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 165.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e20036070f943113e306f0a"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 167.jpg","Page_number":{"$numberInt":"1"},"Number":"77-48494875"}
+{"_id":{"$oid":"5e20036070f943113e306f0b"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 167.jpg","Page_number":{"$numberInt":"1"},"Number":"15420322"}
+{"_id":{"$oid":"5e20038470f943113e306f0c"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 169.jpg","Page_number":{"$numberInt":"1"},"Number":"77-48495091"}
+{"_id":{"$oid":"5e20038470f943113e306f0d"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\24.04.2019 ПОверка СКД _1 169.jpg","Page_number":{"$numberInt":"1"},"Number":"77-48495090"}
+{"_id":{"$oid":"5e20039c70f943113e306f0e"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 ПОверка СКД _1 171.jpg","Page_number":{"$numberInt":"1"},"Number":"77-48426948"}
+{"_id":{"$oid":"5e2003bf70f943113e306f0f"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 ПОверка СКД _1 173.jpg","Page_number":{"$numberInt":"1"},"Number":"77-51233626"}
+{"_id":{"$oid":"5e2003bf70f943113e306f10"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 ПОверка СКД _1 173.jpg","Page_number":{"$numberInt":"1"},"Number":"1865"}
+{"_id":{"$oid":"5e2003e770f943113e306f11"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 ПОверка СКД _1 175.jpg","Page_number":{"$numberInt":"1"},"Number":"77-51235010"}
+{"_id":{"$oid":"5e2003e770f943113e306f12"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 ПОверка СКД _1 175.jpg","Page_number":{"$numberInt":"1"},"Number":"77-51235035"}
+{"_id":{"$oid":"5e20041070f943113e306f13"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 ПОверка СКД _1 177.jpg","Page_number":{"$numberInt":"1"},"Number":"77-48426566"}
+{"_id":{"$oid":"5e20041070f943113e306f14"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 ПОверка СКД _1 177.jpg","Page_number":{"$numberInt":"1"},"Number":"14520723"}
+{"_id":{"$oid":"5e20043570f943113e306f15"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 ПОверка СКД _1 179.jpg","Page_number":{"$numberInt":"1"},"Number":"77-48424780"}
+{"_id":{"$oid":"5e20043570f943113e306f16"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 ПОверка СКД _1 179.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e20046270f943113e306f17"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 ПОверка СКД _1 181.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e20046270f943113e306f18"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 ПОверка СКД _1 181.jpg","Page_number":{"$numberInt":"1"},"Number":"5078"}
+{"_id":{"$oid":"5e20048a70f943113e306f19"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 001.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e20048a70f943113e306f1a"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 001.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e2004b470f943113e306f1b"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 003.jpg","Page_number":{"$numberInt":"1"},"Number":"77-48419156"}
+{"_id":{"$oid":"5e2004b470f943113e306f1c"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 003.jpg","Page_number":{"$numberInt":"1"},"Number":"14520907"}
+{"_id":{"$oid":"5e2004dc70f943113e306f1d"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 005.jpg","Page_number":{"$numberInt":"1"},"Number":"77-48418948'"}
+{"_id":{"$oid":"5e2004dc70f943113e306f1e"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 005.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e20050170f943113e306f1f"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 007.jpg","Page_number":{"$numberInt":"1"},"Number":"Отсутствует"}
+{"_id":{"$oid":"5e20050170f943113e306f20"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 007.jpg","Page_number":{"$numberInt":"1"},"Number":"11363365"}
+{"_id":{"$oid":"5e20051b70f943113e306f21"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 009.jpg","Page_number":{"$numberInt":"1"},"Number":"77-43950998"}
+{"_id":{"$oid":"5e20054070f943113e306f22"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 011.jpg","Page_number":{"$numberInt":"1"},"Number":"Е18В32359"}
+{"_id":{"$oid":"5e20054070f943113e306f23"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 011.jpg","Page_number":{"$numberInt":"1"},"Number":"Е18В32424"}
+{"_id":{"$oid":"5e20055870f943113e306f24"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 013.jpg","Page_number":{"$numberInt":"1"},"Number":"3111"}
+{"_id":{"$oid":"5e20057b70f943113e306f25"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 015.jpg","Page_number":{"$numberInt":"1"},"Number":"77-74032843"}
+{"_id":{"$oid":"5e20057b70f943113e306f26"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 015.jpg","Page_number":{"$numberInt":"1"},"Number":"77-48749852"}
+{"_id":{"$oid":"5e20059570f943113e306f27"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 017.jpg","Page_number":{"$numberInt":"1"},"Number":"Е17Е41782"}
+{"_id":{"$oid":"5e2005c070f943113e306f28"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 019.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e2005c070f943113e306f29"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 019.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e2005f370f943113e306f2a"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 021.jpg","Page_number":{"$numberInt":"1"},"Number":"Е17Е67595"}
+{"_id":{"$oid":"5e2005f370f943113e306f2b"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 021.jpg","Page_number":{"$numberInt":"1"},"Number":"Е17Е67020"}
+{"_id":{"$oid":"5e20060f70f943113e306f2c"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 023.jpg","Page_number":{"$numberInt":"1"},"Number":"Е17Р67010"}
+{"_id":{"$oid":"5e20063870f943113e306f2d"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 025.jpg","Page_number":{"$numberInt":"1"},"Number":"Е16НЗ1115"}
+{"_id":{"$oid":"5e20063870f943113e306f2e"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 025.jpg","Page_number":{"$numberInt":"1"},"Number":"Е16С06б922"}
+{"_id":{"$oid":"5e20065170f943113e306f2f"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 027.jpg","Page_number":{"$numberInt":"1"},"Number":"Е18С16309"}
+{"_id":{"$oid":"5e20067670f943113e306f30"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 029.jpg","Page_number":{"$numberInt":"1"},"Number":"Е18С16320"}
+{"_id":{"$oid":"5e20067670f943113e306f31"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 029.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e2006a170f943113e306f32"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 031.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e2006a170f943113e306f33"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 031.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e2006cc70f943113e306f34"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 033.jpg","Page_number":{"$numberInt":"1"},"Number":"77-48494922"}
+{"_id":{"$oid":"5e2006f870f943113e306f35"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 035.jpg","Page_number":{"$numberInt":"1"},"Number":"Е18ЕЗ7670"}
+{"_id":{"$oid":"5e2006f870f943113e306f36"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 035.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e20072170f943113e306f37"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 037.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e20072170f943113e306f38"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 037.jpg","Page_number":{"$numberInt":"1"},"Number":"Е18ЕЗ767?"}
+{"_id":{"$oid":"5e20074770f943113e306f39"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 043.jpg","Page_number":{"$numberInt":"1"},"Number":"Е17029679"}
+{"_id":{"$oid":"5e20074770f943113e306f3a"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 043.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e20076c70f943113e306f3b"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 045.jpg","Page_number":{"$numberInt":"1"},"Number":"Е17029665"}
+{"_id":{"$oid":"5e20078f70f943113e306f3c"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 047.jpg","Page_number":{"$numberInt":"1"},"Number":"56-53887248"}
+{"_id":{"$oid":"5e2007b470f943113e306f3d"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 049.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e2007b470f943113e306f3e"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 049.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e2007d970f943113e306f3f"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 051.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e2007d970f943113e306f40"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 051.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e2007fc70f943113e306f41"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 053.jpg","Page_number":{"$numberInt":"1"},"Number":"77-48423349"}
+{"_id":{"$oid":"5e2007fc70f943113e306f42"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 053.jpg","Page_number":{"$numberInt":"1"},"Number":"77-48424558"}
+{"_id":{"$oid":"5e20081770f943113e306f43"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 055.jpg","Page_number":{"$numberInt":"1"},"Number":"77-48422656"}
+{"_id":{"$oid":"5e20083770f943113e306f44"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 057.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e20083770f943113e306f45"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 057.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e20085c70f943113e306f46"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 059.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e20085c70f943113e306f47"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 059.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e20088170f943113e306f48"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 061.jpg","Page_number":{"$numberInt":"1"},"Number":"Е17М53426"}
+{"_id":{"$oid":"5e2008aa70f943113e306f49"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 063.jpg","Page_number":{"$numberInt":"1"},"Number":"77-48488158"}
+{"_id":{"$oid":"5e2008aa70f943113e306f4a"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 063.jpg","Page_number":{"$numberInt":"1"},"Number":"15521488"}
+{"_id":{"$oid":"5e2008ce70f943113e306f4b"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 065.jpg","Page_number":{"$numberInt":"1"},"Number":"77-48493196"}
+{"_id":{"$oid":"5e2008ce70f943113e306f4c"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 065.jpg","Page_number":{"$numberInt":"1"},"Number":"77-48490653"}
+{"_id":{"$oid":"5e2008f370f943113e306f4d"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 067.jpg","Page_number":{"$numberInt":"1"},"Number":"Е16Е59б5"}
+{"_id":{"$oid":"5e2008f370f943113e306f4e"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 067.jpg","Page_number":{"$numberInt":"1"},"Number":"1"}
+{"_id":{"$oid":"5e2008f370f943113e306f4f"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 067.jpg","Page_number":{"$numberInt":"1"},"Number":"5162"}
+{"_id":{"$oid":"5e20091570f943113e306f50"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 069.jpg","Page_number":{"$numberInt":"1"},"Number":"Е16Е59б45"}
+{"_id":{"$oid":"5e20091570f943113e306f51"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 069.jpg","Page_number":{"$numberInt":"1"},"Number":"Е16152241"}
+{"_id":{"$oid":"5e20093870f943113e306f52"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 071.jpg","Page_number":{"$numberInt":"1"},"Number":"77-48434884"}
+{"_id":{"$oid":"5e20093870f943113e306f53"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 071.jpg","Page_number":{"$numberInt":"1"},"Number":"15320752"}
+{"_id":{"$oid":"5e20095b70f943113e306f54"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 073.jpg","Page_number":{"$numberInt":"1"},"Number":"77-48434930"}
+{"_id":{"$oid":"5e20095b70f943113e306f55"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 073.jpg","Page_number":{"$numberInt":"1"},"Number":"77-48434882"}
+{"_id":{"$oid":"5e20097b70f943113e306f56"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 075.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e20097b70f943113e306f57"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 075.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e20099f70f943113e306f58"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 077.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e20099f70f943113e306f59"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 077.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e2009c570f943113e306f5a"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 079.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e2009c570f943113e306f5b"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 079.jpg","Page_number":{"$numberInt":"1"},"Number":"Е17129741"}
+{"_id":{"$oid":"5e2009e170f943113e306f5c"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 081.jpg","Page_number":{"$numberInt":"1"},"Number":"Е17117993"}
+{"_id":{"$oid":"5e200a0470f943113e306f5d"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 083.jpg","Page_number":{"$numberInt":"1"},"Number":"Е18С500О4"}
+{"_id":{"$oid":"5e200a0470f943113e306f5e"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 083.jpg","Page_number":{"$numberInt":"1"},"Number":"Е18С50087"}
+{"_id":{"$oid":"5e200a1e70f943113e306f5f"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 085.jpg","Page_number":{"$numberInt":"1"},"Number":"14321245"}
+{"_id":{"$oid":"5e200a4270f943113e306f60"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 087.jpg","Page_number":{"$numberInt":"1"},"Number":"77-48427196"}
+{"_id":{"$oid":"5e200a4270f943113e306f61"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 087.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e200a5b70f943113e306f62"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 089.jpg","Page_number":{"$numberInt":"1"},"Number":":"}
+{"_id":{"$oid":"5e200a8370f943113e306f63"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 091.jpg","Page_number":{"$numberInt":"1"},"Number":"Е16М02926"}
+{"_id":{"$oid":"5e200a9b70f943113e306f64"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 093.jpg","Page_number":{"$numberInt":"1"},"Number":"11363279"}
+{"_id":{"$oid":"5e200abe70f943113e306f65"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 095.jpg","Page_number":{"$numberInt":"1"},"Number":"нет.."}
+{"_id":{"$oid":"5e200abe70f943113e306f66"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 095.jpg","Page_number":{"$numberInt":"1"},"Number":"нет..."}
+{"_id":{"$oid":"5e200ad970f943113e306f67"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 097.jpg","Page_number":{"$numberInt":"1"},"Number":"8"}
+{"_id":{"$oid":"5e200aff70f943113e306f68"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 099.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e200aff70f943113e306f69"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 099.jpg","Page_number":{"$numberInt":"1"},"Number":"Е18Е05967"}
+{"_id":{"$oid":"5e200b1c70f943113e306f6a"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 101.jpg","Page_number":{"$numberInt":"1"},"Number":"Е18Е0599А"}
+{"_id":{"$oid":"5e200b4070f943113e306f6b"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 103.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e200b4070f943113e306f6c"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 103.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e200b5a70f943113e306f6d"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 105.jpg","Page_number":{"$numberInt":"1"},"Number":"Е18С28247"}
+{"_id":{"$oid":"5e200b8170f943113e306f6e"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 107.jpg","Page_number":{"$numberInt":"1"},"Number":"Е18С15599"}
+{"_id":{"$oid":"5e200b8170f943113e306f6f"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 107.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e200b9d70f943113e306f70"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 109.jpg","Page_number":{"$numberInt":"1"},"Number":"Е16С44919"}
+{"_id":{"$oid":"5e200bbe70f943113e306f71"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 111.jpg","Page_number":{"$numberInt":"1"},"Number":"77-47037601"}
+{"_id":{"$oid":"5e200bbe70f943113e306f72"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 111.jpg","Page_number":{"$numberInt":"1"},"Number":"77-47036062"}
+{"_id":{"$oid":"5e200bdf70f943113e306f73"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 113.jpg","Page_number":{"$numberInt":"1"},"Number":"14А20609"}
+{"_id":{"$oid":"5e200bdf70f943113e306f74"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 113.jpg","Page_number":{"$numberInt":"1"},"Number":"77-45299863"}
+{"_id":{"$oid":"5e200c0270f943113e306f75"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 115.jpg","Page_number":{"$numberInt":"1"},"Number":"77-48433999"}
+{"_id":{"$oid":"5e200c0270f943113e306f76"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 115.jpg","Page_number":{"$numberInt":"1"},"Number":"77-48433519"}
+{"_id":{"$oid":"5e200c1a70f943113e306f77"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 117.jpg","Page_number":{"$numberInt":"1"},"Number":"77-48434072"}
+{"_id":{"$oid":"5e200c4070f943113e306f78"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 119.jpg","Page_number":{"$numberInt":"1"},"Number":"Е17015021"}
+{"_id":{"$oid":"5e200c4070f943113e306f79"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 119.jpg","Page_number":{"$numberInt":"1"},"Number":"Е17029502"}
+{"_id":{"$oid":"5e200c5870f943113e306f7a"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 121.jpg","Page_number":{"$numberInt":"1"},"Number":"11383534"}
+{"_id":{"$oid":"5e200c7e70f943113e306f7b"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 123.jpg","Page_number":{"$numberInt":"1"},"Number":"77-45256119"}
+{"_id":{"$oid":"5e200c7e70f943113e306f7c"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 123.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e200c9a70f943113e306f7d"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 125.jpg","Page_number":{"$numberInt":"1"},"Number":"14821161"}
+{"_id":{"$oid":"5e200cc070f943113e306f7e"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 127.jpg","Page_number":{"$numberInt":"1"},"Number":"77-48490578"}
+{"_id":{"$oid":"5e200cda70f943113e306f7f"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 129.jpg","Page_number":{"$numberInt":"1"},"Number":"45392"}
+{"_id":{"$oid":"5e200d0070f943113e306f80"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 131.jpg","Page_number":{"$numberInt":"1"},"Number":"Е17Е21531"}
+{"_id":{"$oid":"5e200d0070f943113e306f81"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 131.jpg","Page_number":{"$numberInt":"1"},"Number":"Е17Е21276"}
+{"_id":{"$oid":"5e200d3170f943113e306f82"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 133.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e200d3170f943113e306f83"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 133.jpg","Page_number":{"$numberInt":"1"},"Number":"(номера)"}
+{"_id":{"$oid":"5e200d4e70f943113e306f84"},"Image_path":"E:\\PycharmProjects\\parser\\lesson73\\JPG\\25.04.2019 СКД поверка часть2 135.jpg","Page_number":{"$numberInt":"1"},"Number":"14924827"}
